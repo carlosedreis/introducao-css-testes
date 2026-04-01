@@ -1,0 +1,47 @@
+
+/*CSS - CASCADING STYLE SHEETS - FOLHA DE ESTILO EM CASCATA */
+
+
+/* /* OBRIGATÓRIO ;*/
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+    h1 {
+        color: red;
+        font-weight: lighter;
+        font-size: 64px;
+        font-family: 'Roboto'sans-serif;
+        text-shadow: 5px 5px 7px;
+    }
+
+    p {
+        color: darkslategray;
+        font-size: 20px;
+        font-family: 'Roboto'sans-serif;
+    }
+
+    button {
+        background: cadetblue;
+        border-color: darkgray;
+    } */
+
+
+.box {
+    background: blue;
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.box-2 {
+    background: grey;
+}
+
+.box-3 {
+    background: greenyellow;
+}
+
+.box {
+    text-decoration-line: none;
+}
